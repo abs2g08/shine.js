@@ -1,6 +1,6 @@
 # shine.js
 
-Shine.js adds a "Slide to unlock" shine using WebKit/CSS3.
+Adds an animated "Slide to unlock" shine using WebKit/CSS3.
 
 ![Shine.js Example](http://i.imgur.com/SHsF6Di.png)
 
